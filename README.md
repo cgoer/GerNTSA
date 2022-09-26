@@ -1,6 +1,5 @@
 # German News Topic Sentiment Analysis Dataset (GerNTSA)
 
----
 
 **GerNTSA** is a Dataset for Aspect-Based Sentiment Analysis on general German-language news articles. The main focus of this dataset is the recognition of one-sided representation and media bias, therefore the sentiment values are provided in relation to different news topics found in general online-newspaper articles.
 
